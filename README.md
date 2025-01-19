@@ -74,10 +74,10 @@ This project is not ready for production use as it lacks:
 ## Usage
 
 ### Front-End
-The front-end application can be accessed at `http://localhost:3000` (default port).
+The front-end application can be accessed at `http://localhost:5190` (default port).
 
 ### Back-End
-The back-end API can be accessed at `http://localhost:4000` (default port).
+The auth back-end API can be accessed at `http://localhost:3000` (default port).
 
 ### Sample API Endpoints
 - `POST /api/auth/login` - Authenticate a user.
@@ -94,5 +94,5 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ## Contact
 
-For any questions or inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or inquiries, please contact [wekesaprincegeorgia@gmail.com](mailto:wekesaprincegeorgia@gmail.com).
 

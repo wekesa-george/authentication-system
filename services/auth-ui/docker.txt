@@ -1,1 +1,0 @@
-docker build -t wekesa256/truden-auth-ui .
