@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: new-auth
+  description: Loan management system (Multi Tenant)
+  annotations:
+    github.com/project-slug: wekesageorge/new-auth
+    backstage.io/techdocs-ref: dir:../
+spec:
+  type: website
+  lifecycle: experimental
+  owner: wekesageorge

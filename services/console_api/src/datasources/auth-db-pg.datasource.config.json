@@ -1,0 +1,10 @@
+{
+  "name": "auth-db-pg",
+  "connector": "postgresql",
+  "host": "AUTH_DB_HOST",
+  "port": "AUTH_DB_PORT",
+  "user": "AUTH_DB_USER",
+  "password": "AUTH_DB_PASSWORD",
+  "database": "AUTH_DB_DATABASE",
+  "schema": "AUTH_DB_SCHEMA"
+}

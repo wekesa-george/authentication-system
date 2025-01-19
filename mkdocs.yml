@@ -1,0 +1,8 @@
+site_name: new-auth
+site_description: Loan management system (Multi Tenant)
+
+nav:
+  - Introduction: README.md
+
+plugins:
+  - techdocs-core
